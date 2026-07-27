@@ -1,16 +1,28 @@
-## Hi there 👋
+# GitHub Bio
 
-<!--
-**dew-coders/dew-coders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Dew-Coders** 👋
 
-Here are some ideas to get you started:
+I'm a passionate cybersecurity enthusiast and full-stack developer focused on building secure, scalable, and efficient solutions. I enjoy solving complex technical challenges, learning new technologies, and contributing to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+* 🔐 Ethical Hacker
+* 💻 Software Developer
+* 🛡️ Penetration Tester
+* 🐞 Debugger & Bug Hunter
+* 🌐 Web Developer
+* 🌍 Network Engineer
+* ⚙️ API Developer & Integrator
+* 🖥️ Server Administrator
+* 🤖 Web Scraping & Automation
+
+### 💡 Interests
+
+* Cybersecurity & Offensive Security
+* Secure Web Applications
+* API Design & Development
+* Network Infrastructure
+* Automation & Scripting
+* Open Source Projects
+
+> "Code securely. Think creatively. Learn continuously."
